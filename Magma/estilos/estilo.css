@@ -1,0 +1,101 @@
+body{
+		background-image: url("/Magma/imagenes/fondo.jpg");
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+}
+
+.tam {
+	background-color: red;
+}
+
+.infcen{
+	text-align: center;
+	color: red;
+
+}
+
+.infcen2{
+	text-align: center;
+	color: white;
+
+}
+
+.list{
+	color: red;
+}
+
+.opcion{
+	color: white;
+}
+
+.textinfo{
+	background-color: white;
+}
+
+
+div.gal {
+  margin: 22px;
+  float: left;
+  width: 285px;
+}
+
+div.gal img {
+  width: 90%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.learn {
+	text-align: center;
+	color: red;
+}
+
+.learn:hover{
+	text-shadow: red 1px 1px;
+}
+
+a.nounderline:link
+{
+text-decoration:none;
+}
+
+.parte2 {
+	padding-bottom: 350px;
+}
+
+.parte3 {	
+	background-color: #f8f8f8;
+}
+
+.textpart3 {
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+#navbardrop:hover{
+	text-shadow: white 1px 1px ; 
+
+}
+
+#opc2:hover{
+	text-shadow: white 1px 1px ;
+}
+
+#opc3:hover{
+	text-shadow: white 1px 1px ;
+}
+
+#opc4:hover{
+	text-shadow: white 1px 1px ;
+}
+
+#opc5:hover{
+	text-shadow: white 1px 1px ;
+}
